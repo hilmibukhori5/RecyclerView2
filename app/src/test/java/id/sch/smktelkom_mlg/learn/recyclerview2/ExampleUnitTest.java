@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.learn.recyclerview;
+package id.sch.smktelkom_mlg.learn.recyclerview2;
 
 import org.junit.Test;
 
